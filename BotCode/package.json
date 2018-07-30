@@ -1,8 +1,0 @@
-{
-  "name": "Disco Bot",
-  "version": "1.0.0",
-  "description": "Test bot",
-  "main": "bot.js",
-  "author": "Vincent van Duivenbode and Thomas Soeterbroek",
-  "dependencies": {}
-}
